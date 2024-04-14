@@ -46,25 +46,23 @@ https://cbqh.short.gy/Bjtech_Star_Sports_TamilHD.m3u8
 https://cbqh.short.gy/bjtechSuper_Sports.m3u8
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Insiders)
-https://prod-sports-cohort-gm.jiocinema.com/hls/live/2109956/uhd_akamai_atv_avc_insider_ipl_s1_m1140424/index.m3u8
-
+https://prod-sports-cohort-gm.jiocinema.com/hls/live/2109927/uhd_akamai_atv_avc_insider_ipl_s2_m2140424/index.m3u8
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Hin 4k)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_atv_avc_hin_ipl_s1_m1130424/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100328/uhd_akamai_atv_avc_hin_ipl_s2_m2140424/master.m3u8
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Eng 4k)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1140424/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100307/uhd_akamai_atv_avc_eng_ipl_s2_m2140424/master.m3u8
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Marathi 4k)
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1140424/master.m3u8
-
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109737/uhd_akamai_atv_avc_mar_ipl_s2_m2140424/master.m3u8
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Tamil 4k)
-https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1140424/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109681/uhd_akamai_atv_avc_tam_ipl_s2_m2140424/master.m3u8
 
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Telugu 4k)
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1140424/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109687/uhd_akamai_atv_avc_tel_ipl_s2_m2140424/master.m3u8
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Haryanvi 4k)
 http://prod-sports-south-gm.jiocinema.com/hls/live/2109699/uhd_akamai_atv_avc_odia_ipl_s1_m1130424/master.m3u8
@@ -81,7 +79,7 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc
 
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Hin FHD)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1140424/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/02d5feb2fadf4f619178554fbfbafa30/master.m3u8
 
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Bangla FHD)
@@ -91,12 +89,12 @@ https://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_iosmob_avc
 
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",Ads Free(Hin FHD)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1140424/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/02d5feb2fadf4f619178554fbfbafa30/master.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",Ads Free(Eng FHD)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1140424/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/7f5975e0eb1141d08c58bbb80299c175/master.m3u8
 
 
 
