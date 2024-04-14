@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+  </head>
+  <body>
+    <p>You will be redirected to the example website in 1 seconds.</p>
+<script>
+  window.location.href = "https://join-us-on-telegram-bjtech2426.blogspot.com/?m=0";
+</script>
+</html>
+<noscript>
+  <p>This page requires JavaScript to function properly.</p>
+</noscript>
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkoPCFZB2llQ27V-HfUe-XqQjjdYhP7ClbsMFR54jY0nmcweBTCQA3kEROG7e6waXg3DnQUjBpLOClmM6t7zu3rRpVAycuzzVPzeLangrbGJqHGCLTLME74SIvHBH3lXosTBfkHs91dsVd8lMQ-R1WyLLPvOfmgHHU75_KVOaD2wfqfI5IW1o9polls3k/s320/photo1700932670.jpeg",Join👉@bjtech_2426
+http://amc-team-x-096c828e5e73.herokuapp.com/28320
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJvpvu8OcRKlFPKgC3jT-sWYmrcAcGobseyzg09XMTkHZOajdAUJCzjfi2zmvr_vD503qnaZVV81S38aJffD2UOVMXAGnrNOEDjiWYCIb0Lxm7URQDZtwnvuTFbmlvAUn5P6f1Yf4PLAjWiNdshzzOTcVMHoksfdIAVZ8rgVfz0vMK2HOzI8H77QokS0/s320/photo1700931326.jpeg",Join👉@bjtech_2426
+https://bj2426.github.io/Bhtechknowledge.io/Fox_Sports501HD1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjFK6P7FwP9PIv1pNj6oHpwHvBlw_ZmsCPubXSfkXo49sroVh5fJK55-wa1crg30ImfDw2toZVho016lhtcb_k8ZPwQHKFwg7QN2RczUIOzn8wfLxG8uGaiy4YVMb_Xbm9CAdMR0NFOfO4syyqiX6wMemRojjElshR1wyUIVFJFFJ9hMSBaGlGbUza8zs/s320/photo1700931665.jpeg",Join👉@bjtech_2426
+https://bj2426.github.io/Bhtechknowledge.io/Star_Sports_HindiFHD.m3u8
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="",F1 🏎️
+https://sportsleading.online/live/stream_f1.m3u8
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Hindi Star FHD
+https://cbqh.short.gy/Star_Sports Hindi-bjtech.m3u8
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png",FOX 501 FHD
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/445448.ts
+
+
+KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png/revision/latest/scale-to-width-down/185?cb=20211017160049",(Tami FHD 2) 
+https://cbqh.short.gy/Bjtech_Star_Sports_TamilHD.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS BJTECH", tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",Worldwide
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+https://cbqh.short.gy/bjtechSuper_Sports.m3u8
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Insiders)
+https://prod-sports-cohort-gm.jiocinema.com/hls/live/2109956/uhd_akamai_atv_avc_insider_ipl_s1_m1140424/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Hin 4k)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_atv_avc_hin_ipl_s1_m1130424/master.m3u8
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Eng 4k)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1140424/master.m3u8
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Marathi 4k)
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1140424/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Tamil 4k)
+https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1140424/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Telugu 4k)
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1140424/master.m3u8
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Haryanvi 4k)
+http://prod-sports-south-gm.jiocinema.com/hls/live/2109699/uhd_akamai_atv_avc_odia_ipl_s1_m1130424/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Punjabi)
+http://prod-sports-north-fa.jiocinema.com/hls/live/2109756/hd_akamai_androidmob_avc_pun_ipl_s1_m1140424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(ENG FHD)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1140424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Hin FHD)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1140424/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Bangla FHD)
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_iosmob_avc_ben_ipl_s1_m1130424/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",Ads Free(Hin FHD)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1140424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",Ads Free(Eng FHD)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1140424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Tamil FHD)
+https://prod-sports-south-fa.jiocinema.com/hls/live/2109712/hd_akamai_iosmob_avc_tam_ipl_s1_m1130424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Tel FHD)
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109688/hd_akamai_androidmob_avc_tel_ipl_s1_m1130424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Malyalam FHD)
+https://prod-sports-south-fa.jiocinema.com/hls/live/2109706/hd_akamai_iosmob_avc_mal_ipl_s1_m1130424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.toiimg.com/thumb/msid-108654524,imgsize-15352,width-400,resizemode-4/108654524.jpg",(Kanada FHD)
+https://prod-sports-south-fa.jiocinema.com/hls/live/2109724/hd_akamai_iosmob_avc_kan_ipl_s1_m1130424/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://images.fancode.com/eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZmMtd2ViLWxvZ28vZmNfbG9nb193aGl0ZV9iZy5zdmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOiJ0cmFuc3BhcmVudCIsIndpZHRoIjoxMzAsImhlaWdodCI6NDB9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",NEP 🆚 IRE
+https://dai.fancode.com/primary/97195_english_hls_5031ta-di/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://images.fancode.com/eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZmMtd2ViLWxvZ28vZmNfbG9nb193aGl0ZV9iZy5zdmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOiJ0cmFuc3BhcmVudCIsIndpZHRoIjoxMzAsImhlaWdodCI6NDB9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",SRI 🆚 BAN
+https://catowrap.live/mrgamingbtsport1.m3u8
+  
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://etimg.etb2bimg.com/photo/76024879.cms",SONY LIV LIVE
+https://cbqh.short.gy/Sony+Bjtech.m3u8
+
+IPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/skych.php?contentID=1302&key
+#EXTINF:-1 tvg-id=ts1302 tvg-logo="https://play-lh.googleusercontent.com/mVaVpSkqAxlo3Tg_W8eCEwiFFvhw0-pWeGyEDdw-zzyPYUI2I4yYeFaTdLpX8vxFtqE=w240-h480-rw" group-title="",Sky Cricket
+https://cbqh.short.gy/Sky_Sports1.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mVaVpSkqAxlo3Tg_W8eCEwiFFvhw0-pWeGyEDdw-zzyPYUI2I4yYeFaTdLpX8vxFtqE=w240-h480-rw",Live Event 2
+https://cbqh.short.gy/SkySports_Cricket.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://etimg.etb2bimg.com/photo/76024879.cms",SONY-LIV(WWE) 
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+
+KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png/revision/latest/scale-to-width-down/185?cb=20211017160049",(Tami FHD) 
+https://cbqh.short.gy/Bjtech_Star_SportsTamil.m3u8
+  
+  
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket
+https://cbqh.short.gy/Bjtech_Astro.mpd
+  
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",Sky Sports Cricket HD
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cbqh.short.gy/Bjtechknolwedge_Sky_Sports_CricketHD.m3u8
+
+#EXTINF:-1 group-title="SPORTS BJTECH", tvg-logo="https://static.toiimg.com/thumb/msid-98738864,imgsize-8010,width-400,resizemode-4/98738864.jpg",ENG(WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O4jyz/Ov/vILJlyEC6/AzA", "kid":"ZlPAXkL8T6yPSdfL+ZSY/g" } ],"type":"temporary" } 
+https://8g7o.short.gy/Willow_Cricket.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=24&key
+#EXTINF:-1 tvg-id=ts24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Tata Sky",Star Sports 1 Hindi HD
+https://rftv.wtf/tp/tplay.mpd?contentID=24
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=78&key
+#EXTINF:-1 tvg-id="ts78" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
+https://rftv.wtf/tp/tplay.mpd?contentID=78
+ 
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=235&key
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2 HD
+https://rftv.wtf/tp/tplay.mpd?contentID=235
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=246&key
+#EXTINF:-1 tvg-id="246" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" ,Star Sports Select 1 HD
+https://rftv.wtf/tp/tplay.mpd?contentID=246
+  
+  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=463&key
+#EXTINF:-1 tvg-id="463" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" ,Star Sports Select 2 HD
+https://rftv.wtf/tp/tplay.mpd?contentID=463
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rattling-glazes.000webhostapp.com/TATAPLAY/TNT1HD_Keyid1
+#EXTINF:-1 tvg-id="463" group-title="Sports" tvg-logo="https://media.info/i/lf/300/1690027797/1539.png",TNT 1
+https://cbqh.short.gy/Bjtech_TNT_1HD.mpd 
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rattling-glazes.000webhostapp.com/TATAPLAY/TNT2HD_Keyid=bj_2426
+#EXTINF:-1 tvg-id="463" group-title="Sports" tvg-logo="https://media.info/i/lf/300/1690027877/1540.png",TNT 2
+https://cbqh.short.gy/bjtech_TNT_2HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rattling-glazes.000webhostapp.com/TATAPLAY/TNT3HD_Keyid=Bjtech_24261
+#EXTINF:-1 tvg-id="463" group-title="Sports" tvg-logo="https://media.info/i/lf/300/1690027954/5712.png",TNT 3
+https://cbqh.short.gy/bjtech_TNT3HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rattling-glazes.000webhostapp.com/TATAPLAY/TNT4HD_Keyid=Bjtech_123
+#EXTINF:-1 tvg-id="463" group-title="Sports" tvg-logo="https://media.info/i/lf/300/1690027975/1491.png" ,TNT 4
+https://cbqh.short.gy/Bjtech_TNT_4HD.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rattling-glazes.000webhostapp.com/TATAPLAY/TNT5HD_Keyid=5
+#EXTINF:-1 tvg-id="463" group-title="Sports" tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png",TNT 5
+https://cbqh.short.gy/Bjtech_TNT_5HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports HD 2
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
+https://catowrap.live/mrgamingbtsport1.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://teachublive.link/CRICHD/sports.php?v=bbtsp1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/ten-sports-logo.png",Ten Sports HD
+#EXTVLCOPT:http-referrer=https://entezeetv.fun/oreo/?play=f1381665
+#EXTVLCOPT:http-user-agent=Android  
+https://cbqh.short.gy/Ten_Sports_HD_bjtech.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://scontent.fbom20-2.fna.fbcdn.net/v/t39.30808-1/302701948_384686900514558_3175941673120827784_n.png?stp=dst-png_p120x120&_nc_cat=107&ccb=1-7&_nc_sid=4da83f&_nc_ohc=rXE2ZxSci_wAX91A8am&_nc_ht=scontent.fbom20-2.fna&oh=00_AfDqA6ZBy3i0aad1oF4QlN_e5M2KKLnxYCuSCcx97SeNUA&oe=65A8E9A7",Ten Cricket HD
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Android  
+https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd?%7CdrmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=abfc480ae7920a3ebd9e99e7b9a0d3e2&key=63a7fe4e7899ba2bc5bbd4307398f3ff  
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png"  group-title="SONY BJTECHKNOWLEDGE",Sony sports ten 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5e
+
+y-Sports-Ten1-New-Logo.png"  group-title="SONY BJTECHKNOWLEDGE",Sony sports ten 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
