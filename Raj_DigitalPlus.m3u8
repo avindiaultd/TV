@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=936320,AVERAGE-BANDWIDTH=936320,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000
+http://honeywatch.net/get.php?username=play&password=live.php?mac=00:1A:79:A5:9F:91&stream=214257&extension=m3u8
