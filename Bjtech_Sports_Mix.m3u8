@@ -1,0 +1,832 @@
+#EXTM3U
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/183.png" tvg-id="183" group-title="BUBIK TV @DARSHANIPTV",CBS News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2740/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/256.png" tvg-id="256" group-title="BUBIK TV @DARSHANIPTV",NBC News Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/162677/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/243.png" tvg-id="243" group-title="BUBIK TV @DARSHANIPTV",MSNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/406/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/211.png" tvg-id="211" group-title="BUBIK TV @DARSHANIPTV",Fox Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2316/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/351.png" tvg-id="351" group-title="BUBIK TV @DARSHANIPTV",CNN USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/480/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/981c7030861c2dde212be1e4d7c80c29.png" tvg-id="188" group-title="BUBIK TV @DARSHANIPTV",CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2295/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/297695.png" tvg-id="776" group-title="BUBIK TV @DARSHANIPTV",ABC Action News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/297695/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/294.png" tvg-id="294" group-title="BUBIK TV @DARSHANIPTV",The Weather Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2361/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/696.png" tvg-id="796" group-title="BUBIK TV @DARSHANIPTV",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/696/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/163737.png" tvg-id="768" group-title="BUBIK TV @DARSHANIPTV",Newsmax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/163737/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/282288.png" tvg-id="292" group-title="BUBIK TV @DARSHANIPTV",USA Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/282288/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/335.png" tvg-id="335" group-title="BUBIK TV @DARSHANIPTV",Sky News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1081/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/258.png" tvg-id="258" group-title="BUBIK TV @DARSHANIPTV",NewsNation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6296/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/257.png" tvg-id="257" group-title="BUBIK TV @DARSHANIPTV",Newsmax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/163737/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/207.png" tvg-id="207" group-title="BUBIK TV @DARSHANIPTV",ESPN News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2312/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/280291.png" tvg-id="778" group-title="BUBIK TV @DARSHANIPTV",i24 News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/280291/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/299117.png" tvg-id="777" group-title="BUBIK TV @DARSHANIPTV",TYT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/299117/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/6346.png" tvg-id="795" group-title="BUBIK TV @DARSHANIPTV",HLN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6346/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/697.png" tvg-id="808" group-title="BUBIK TV @DARSHANIPTV",BBC One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/697/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/186.png" tvg-id="186" group-title="BUBIK TV @DARSHANIPTV",Cheddar News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/8606/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/350.png" tvg-id="350" group-title="BUBIK TV @DARSHANIPTV",CNN International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/753/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/259.png" tvg-id="259" group-title="BUBIK TV @DARSHANIPTV",Newsnet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/193458/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/283047.png" tvg-id="810" group-title="BUBIK TV @DARSHANIPTV",BBC Two
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/283047/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/172659.png" tvg-id="779" group-title="BUBIK TV @DARSHANIPTV",Univision Los Angeles
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/172659/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/161.png" tvg-id="161" group-title="BUBIK TV @DARSHANIPTV",AccuWeather Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298936/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/295324.png" tvg-id="775" group-title="BUBIK TV @DARSHANIPTV",ABC 17 News KMIZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/295324/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/296922.png" tvg-id="809" group-title="BUBIK TV @DARSHANIPTV",BBC One London
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/296922/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/162.png" tvg-id="162" group-title="BUBIK TV @DARSHANIPTV",AfricaNews (EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/283863/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/747.png" tvg-id="204" group-title="BUBIK TV @DARSHANIPTV",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/747/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/41918.png" tvg-id="205" group-title="BUBIK TV @DARSHANIPTV",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/41918/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/1a4cc96299b120ea76ecc6708b17c634.png" tvg-id="733" group-title="BUBIK TV @DARSHANIPTV",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/769/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/296404.png" tvg-id="734" group-title="BUBIK TV @DARSHANIPTV",TBS News DIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/296404/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2367.png" tvg-id="260" group-title="BUBIK TV @DARSHANIPTV",NFL Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2367/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/14816.png" tvg-id="206" group-title="BUBIK TV @DARSHANIPTV",ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/14816/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/ed54059b0135614eff9bad8a472d6262.png" tvg-id="189" group-title="BUBIK TV @DARSHANIPTV",CNBC Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/299352/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2314.png" tvg-id="214" group-title="BUBIK TV @DARSHANIPTV",Fox Soccer Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2314/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/434467d78ac11c1aab24c826b18dbc2e.png" tvg-id="729" group-title="BUBIK TV @DARSHANIPTV",FOX SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/10925/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/06842781c91b86e1abca7bbf32c9ec2a.png" tvg-id="752" group-title="BUBIK TV @DARSHANIPTV",ESPN Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/281417/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/22709.png" tvg-id="747" group-title="BUBIK TV @DARSHANIPTV",Bike
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/22709/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/3382.png" tvg-id="739" group-title="BUBIK TV @DARSHANIPTV",MSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/3382/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2372.png" tvg-id="737" group-title="BUBIK TV @DARSHANIPTV",Willow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2372/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/01022bb6b53acc2fd5bedfa01e6229f1.png" tvg-id="719" group-title="BUBIK TV @DARSHANIPTV",Dark
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/121514/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/9008ca049b63e3e273ce699db0d84997.png" tvg-id="228" group-title="BUBIK TV @DARSHANIPTV",Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/5845/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2369.png" tvg-id="261" group-title="BUBIK TV @DARSHANIPTV",NFL RedZone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2369/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/756.png" tvg-id="216" group-title="BUBIK TV @DARSHANIPTV",FS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/756/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/272264.png" tvg-id="242" group-title="BUBIK TV @DARSHANIPTV",Motortrend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/272264/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/762.png" tvg-id="254" group-title="BUBIK TV @DARSHANIPTV",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/762/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2275.png" tvg-id="286" group-title="BUBIK TV @DARSHANIPTV",Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2275/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2342.png" tvg-id="240" group-title="BUBIK TV @DARSHANIPTV",MLB Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2342/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/45785.png" tvg-id="329" group-title="BUBIK TV @DARSHANIPTV",NBC Sports Bay Area
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/45785/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/71274d6baa0665eefd269f6a6c7f30f9.png" tvg-id="330" group-title="BUBIK TV @DARSHANIPTV",NBC Sports Boston
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/35132/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/13240.png" tvg-id="718" group-title="BUBIK TV @DARSHANIPTV",PPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/13240/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/266.png" tvg-id="341" group-title="BUBIK TV @DARSHANIPTV",Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/266/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/177.png" tvg-id="177" group-title="BUBIK TV @DARSHANIPTV",Big Ten Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2279/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/6447.png" tvg-id="274" group-title="BUBIK TV @DARSHANIPTV",SEC Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6447/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/190e644140912938d916c89ea236c4cc.png" tvg-id="765" group-title="BUBIK TV @DARSHANIPTV",Insider
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/297033/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/12b0fd23fa2e266c3372a81316497b4e.png" tvg-id="166" group-title="BUBIK TV @DARSHANIPTV",beIN Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/284530/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/267357.png" tvg-id="184" group-title="BUBIK TV @DARSHANIPTV",CBS Sports Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/267357/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2348.png" tvg-id="262" group-title="BUBIK TV @DARSHANIPTV",NHL Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2348/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2311.png" tvg-id="208" group-title="BUBIK TV @DARSHANIPTV",ESPNU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2311/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298969.png" tvg-id="239" group-title="BUBIK TV @DARSHANIPTV",Marquee Sports Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+http://iptvtree.net:8080/130e7b50/1274718059/298969
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/b9c4428947f1136e4338ab1e8dfbbdeb.png" tvg-id="332" group-title="BUBIK TV @DARSHANIPTV",NBC Sports Chicago
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/8490/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/6463.png" tvg-id="773" group-title="BUBIK TV @DARSHANIPTV",Bally Sports Detroit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6463/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/14820.png" tvg-id="770" group-title="BUBIK TV @DARSHANIPTV",Fox Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/14820/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/6376.png" tvg-id="735" group-title="BUBIK TV @DARSHANIPTV",tru TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6376/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/49245.png" tvg-id="745" group-title="BUBIK TV @DARSHANIPTV",America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/49245/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/296737.png" tvg-id="217" group-title="BUBIK TV @DARSHANIPTV",FS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/296737/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/5876e1c8940d99f978603be40a390d8c.png" tvg-id="730" group-title="BUBIK TV @DARSHANIPTV",FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/3043/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/265.png" tvg-id="340" group-title="BUBIK TV @DARSHANIPTV",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/265/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/282278.png" tvg-id="748" group-title="BUBIK TV @DARSHANIPTV",Wired2Fish
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/282278/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/3367.png" tvg-id="165" group-title="BUBIK TV @DARSHANIPTV",Bally Sports West
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/3367/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/7765.png" tvg-id="315" group-title="BUBIK TV @DARSHANIPTV",Eleven Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/7765/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/ae54a17fab3368c61e5fc22bf374888c.png" tvg-id="331" group-title="BUBIK TV @DARSHANIPTV",NBC Sports California
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/16116/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/530.png" tvg-id="316" group-title="BUBIK TV @DARSHANIPTV",FIGHT BOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/530/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/90120.png" tvg-id="732" group-title="BUBIK TV @DARSHANIPTV",NBC Universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/90120/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/282284.png" tvg-id="749" group-title="BUBIK TV @DARSHANIPTV",SportsGrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/282284/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/150609.png" tvg-id="751" group-title="BUBIK TV @DARSHANIPTV",Marquee Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/150609/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1136.png" tvg-id="753" group-title="BUBIK TV @DARSHANIPTV",Real Madrid TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1136/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/147553.png" tvg-id="218" group-title="BUBIK TV @DARSHANIPTV",Fubo Sports Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/147553/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/11712.png" tvg-id="219" group-title="BUBIK TV @DARSHANIPTV",Fuel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/11712/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/13564766a5946f12edeb4f2a4c0ec43c.png" tvg-id="741" group-title="BUBIK TV @DARSHANIPTV",MSGSN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298972/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/297033.png" tvg-id="743" group-title="BUBIK TV @DARSHANIPTV",PAC 12 Insider
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/297033/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/269.png" tvg-id="339" group-title="BUBIK TV @DARSHANIPTV",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/269/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/9235.png" tvg-id="306" group-title="BUBIK TV @DARSHANIPTV",FIGHT Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/9235/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/157606.png" tvg-id="317" group-title="BUBIK TV @DARSHANIPTV",FIGHT Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/157606/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/6ac05e4e7e1e87989224784a2224d4ad.png" tvg-id="744" group-title="BUBIK TV @DARSHANIPTV",Players TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/286218/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/05fbb35364b23e9b2b3949b31d200b4b.png" tvg-id="710" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/270/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/061ecb0361d9f8dbbe0a7e474b087bf5.png" tvg-id="711" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/273/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/25213.png" tvg-id="740" group-title="BUBIK TV @DARSHANIPTV",MSG 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/25213/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/427f9c8da3b264ec12b9db168f01ea62.png" tvg-id="727" group-title="BUBIK TV @DARSHANIPTV",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/692/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1672.png" tvg-id="724" group-title="BUBIK TV @DARSHANIPTV",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1672/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/8949ef7441b4bca6609af932ac6a4ea9.png" tvg-id="728" group-title="BUBIK TV @DARSHANIPTV",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1555/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/9c7609eaa2234c5ed045fcdbbb9fe641.png" tvg-id="731" group-title="BUBIK TV @DARSHANIPTV",FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/3044/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/267.png" tvg-id="338" group-title="BUBIK TV @DARSHANIPTV",Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/267/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/151022.png" tvg-id="167" group-title="BUBIK TV @DARSHANIPTV",beIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/151022/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/64711.png" tvg-id="720" group-title="BUBIK TV @DARSHANIPTV",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/64711/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/fa5db03adfbf484ddbc2f55e279900dd.png" tvg-id="725" group-title="BUBIK TV @DARSHANIPTV",DAZN LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/297787/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/9f920f7c208049f7f00650ee5cf12d8a.png" tvg-id="766" group-title="BUBIK TV @DARSHANIPTV",Motor America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/49245/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/151026.png" tvg-id="169" group-title="BUBIK TV @DARSHANIPTV",beIN Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/151026/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/1ba0a95e5f1f648714b10de548a693b8.png" tvg-id="712" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/271/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/296763.png" tvg-id="738" group-title="BUBIK TV @DARSHANIPTV",Willow Xtra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/296763/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/151024.png" tvg-id="168" group-title="BUBIK TV @DARSHANIPTV",beIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/151024/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/e3ff88e3bd7d63c67e59116ca5b42dab.png" tvg-id="746" group-title="BUBIK TV @DARSHANIPTV",Motorvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/268514/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/f2015f6177cb47d0c99e6829bff20349.png" tvg-id="333" group-title="BUBIK TV @DARSHANIPTV",NBC Sports Chicago Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/12986/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/64712.png" tvg-id="721" group-title="BUBIK TV @DARSHANIPTV",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/64712/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/1979d9ce9322ceb8914c58c46b0e3d21.png" tvg-id="713" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298471/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/151030.png" tvg-id="170" group-title="BUBIK TV @DARSHANIPTV",beIN Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/151030/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/151028.png" tvg-id="171" group-title="BUBIK TV @DARSHANIPTV",beIN Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/151028/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/150613.png" tvg-id="772" group-title="BUBIK TV @DARSHANIPTV",Bally Sports Arizona Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/150613/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/151032.png" tvg-id="172" group-title="BUBIK TV @DARSHANIPTV",beIN Sports 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/151032/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/269912.png" tvg-id="722" group-title="BUBIK TV @DARSHANIPTV",DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/269912/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/269911.png" tvg-id="723" group-title="BUBIK TV @DARSHANIPTV",DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/269911/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298745.png" tvg-id="726" group-title="BUBIK TV @DARSHANIPTV",DAZN LaLiga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298745/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/198961.png" tvg-id="253" group-title="BUBIK TV @DARSHANIPTV",NBA League Pass 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/198961/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/828495cff802e3803aafab2a681516c7.png" tvg-id="717" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/283203/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/e635b6975214c2efe3ad7b52f1b5fcd0.png" tvg-id="714" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1124/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/7000e4edb780559f236cf032b70d6eb4.png" tvg-id="715" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/7435/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/4651e33bb5044190d5ad50b16ed8f881.png" tvg-id="716" group-title="BUBIK TV @DARSHANIPTV",TNT Sports 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/7438/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298903.png" tvg-id="754" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298903/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298904.png" tvg-id="755" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298904/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298906.png" tvg-id="757" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298906/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/b0a75d3437a566daa6a71bdc2e999d5c.png" tvg-id="742" group-title="BUBIK TV @DARSHANIPTV",beIN Sports Xtra en Espanol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/281493/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/31c0c79ad0ef5d67a5a82504ff7e50b1.png" tvg-id="750" group-title="BUBIK TV @DARSHANIPTV",CBS Los Angeles California KCBS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/35026/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298912.png" tvg-id="763" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298912/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/196611.png" tvg-id="764" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/196611/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298905.png" tvg-id="756" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298905/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298907.png" tvg-id="758" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298907/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298908.png" tvg-id="759" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298908/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298909.png" tvg-id="760" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298909/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298910.png" tvg-id="761" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298910/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/298911.png" tvg-id="762" group-title="BUBIK TV @DARSHANIPTV",TUDN XTRA 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298911/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/229.png" tvg-id="229" group-title="BUBIK TV @DARSHANIPTV",Hallmark Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/759/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/764.png" tvg-id="791" group-title="BUBIK TV @DARSHANIPTV",Nickelodeon US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/764/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2303.png" tvg-id="787" group-title="BUBIK TV @DARSHANIPTV",Disney Channel US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2303/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/321.png" tvg-id="321" group-title="BUBIK TV @DARSHANIPTV",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2336/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/277.png" tvg-id="277" group-title="BUBIK TV @DARSHANIPTV",Stadium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/29657/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/296921.png" tvg-id="786" group-title="BUBIK TV @DARSHANIPTV",Dove
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/296921/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/193459.png" tvg-id="807" group-title="BUBIK TV @DARSHANIPTV",TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/193459/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/215.png" tvg-id="215" group-title="BUBIK TV @DARSHANIPTV",Freeform
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2329/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/263.png" tvg-id="263" group-title="BUBIK TV @DARSHANIPTV",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/14835/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/312.png" tvg-id="312" group-title="BUBIK TV @DARSHANIPTV",Bounce TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/298313/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/758.png" tvg-id="221" group-title="BUBIK TV @DARSHANIPTV",FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/758/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/231.png" tvg-id="231" group-title="BUBIK TV @DARSHANIPTV",Hallmark Movies & Mysteries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/3388/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/293.png" tvg-id="293" group-title="BUBIK TV @DARSHANIPTV",VH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2370/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/269.png" tvg-id="269" group-title="BUBIK TV @DARSHANIPTV",Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/14839/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/309.png" tvg-id="309" group-title="BUBIK TV @DARSHANIPTV",FailArmy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/286084/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/311.png" tvg-id="311" group-title="BUBIK TV @DARSHANIPTV",Start TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/151056/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/15117.png" tvg-id="736" group-title="BUBIK TV @DARSHANIPTV",AXS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/15117/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1110.png" tvg-id="816" group-title="BUBIK TV @DARSHANIPTV",E4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1110/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/9079.png" tvg-id="771" group-title="BUBIK TV @DARSHANIPTV",FXM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/9079/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/285.png" tvg-id="285" group-title="BUBIK TV @DARSHANIPTV",TeenNick
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/15058/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/230.png" tvg-id="230" group-title="BUBIK TV @DARSHANIPTV",Hallmark Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/3387/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/323.png" tvg-id="323" group-title="BUBIK TV @DARSHANIPTV",HBO Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2335/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/324.png" tvg-id="324" group-title="BUBIK TV @DARSHANIPTV",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/760/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/265.png" tvg-id="265" group-title="BUBIK TV @DARSHANIPTV",NickMusic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/12982/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1112.png" tvg-id="790" group-title="BUBIK TV @DARSHANIPTV",Disney Junior UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1112/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/325.png" tvg-id="325" group-title="BUBIK TV @DARSHANIPTV",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6305/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/326.png" tvg-id="326" group-title="BUBIK TV @DARSHANIPTV",HBO Zone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6328/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/281864.png" tvg-id="792" group-title="BUBIK TV @DARSHANIPTV",Nickelodeon UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/281864/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/322.png" tvg-id="322" group-title="BUBIK TV @DARSHANIPTV",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/5844/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1118.png" tvg-id="802" group-title="BUBIK TV @DARSHANIPTV",Comedy Central UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1118/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/740.png" tvg-id="793" group-title="BUBIK TV @DARSHANIPTV",Nicktoons UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/740/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1113.png" tvg-id="788" group-title="BUBIK TV @DARSHANIPTV",Disney Channel UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1113/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/8608.png" tvg-id="789" group-title="BUBIK TV @DARSHANIPTV",Disney Junior US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/8608/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1091.png" tvg-id="813" group-title="BUBIK TV @DARSHANIPTV",Sky Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1091/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/286909.png" tvg-id="815" group-title="BUBIK TV @DARSHANIPTV",Sky Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/286909/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/4669.png" tvg-id="797" group-title="BUBIK TV @DARSHANIPTV",AMC UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/4669/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/751.png" tvg-id="798" group-title="BUBIK TV @DARSHANIPTV",AMC US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/751/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/4656.png" tvg-id="803" group-title="BUBIK TV @DARSHANIPTV",Comedy Central Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/4656/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/754.png" tvg-id="804" group-title="BUBIK TV @DARSHANIPTV",Comedy Central US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/754/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2351.png" tvg-id="794" group-title="BUBIK TV @DARSHANIPTV",Nicktoons US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2351/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1068.png" tvg-id="800" group-title="BUBIK TV @DARSHANIPTV",SYFY UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1068/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2359.png" tvg-id="801" group-title="BUBIK TV @DARSHANIPTV",SYFY US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2359/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/290.png" tvg-id="290" group-title="BUBIK TV @DARSHANIPTV",Universal Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6399/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/232.png" tvg-id="232" group-title="BUBIK TV @DARSHANIPTV",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1600/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/198.png" tvg-id="198" group-title="BUBIK TV @DARSHANIPTV",Discovery Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2300/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/13001.png" tvg-id="781" group-title="BUBIK TV @DARSHANIPTV",QVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/13001/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/209.png" tvg-id="209" group-title="BUBIK TV @DARSHANIPTV",Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2315/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2746.png" tvg-id="805" group-title="BUBIK TV @DARSHANIPTV",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2746/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2352.png" tvg-id="806" group-title="BUBIK TV @DARSHANIPTV",OWN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2352/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/238.png" tvg-id="238" group-title="BUBIK TV @DARSHANIPTV",Magnolia Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/469/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/164.png" tvg-id="164" group-title="BUBIK TV @DARSHANIPTV",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6329/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/288.png" tvg-id="288" group-title="BUBIK TV @DARSHANIPTV",Travel Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1066/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/147577.png" tvg-id="774" group-title="BUBIK TV @DARSHANIPTV",Tastemade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/147577/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/193.png" tvg-id="193" group-title="BUBIK TV @DARSHANIPTV",Cooking Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2297/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/195.png" tvg-id="195" group-title="BUBIK TV @DARSHANIPTV",Destination America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2299/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/281951.png" tvg-id="780" group-title="BUBIK TV @DARSHANIPTV",Gusto TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/281951/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/294673.png" tvg-id="782" group-title="BUBIK TV @DARSHANIPTV",The Pet Collective
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/294673/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/196.png" tvg-id="196" group-title="BUBIK TV @DARSHANIPTV",The Design Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/281955/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/23301.png" tvg-id="783" group-title="BUBIK TV @DARSHANIPTV",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/23301/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/181.png" tvg-id="181" group-title="BUBIK TV @DARSHANIPTV",Bravo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2282/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/2278.png" tvg-id="785" group-title="BUBIK TV @DARSHANIPTV",BET US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2278/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/287.png" tvg-id="287" group-title="BUBIK TV @DARSHANIPTV",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2362/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/244.png" tvg-id="244" group-title="BUBIK TV @DARSHANIPTV",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2344/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/199.png" tvg-id="199" group-title="BUBIK TV @DARSHANIPTV",Discovery Life Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/201208/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/9760.png" tvg-id="784" group-title="BUBIK TV @DARSHANIPTV",BET UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/9760/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/252.png" tvg-id="252" group-title="BUBIK TV @DARSHANIPTV",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/77844/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/275.png" tvg-id="275" group-title="BUBIK TV @DARSHANIPTV",Smithsonian Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/8585/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/251.png" tvg-id="251" group-title="BUBIK TV @DARSHANIPTV",NAT GEO Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6503/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/6340.png" tvg-id="305" group-title="BUBIK TV @DARSHANIPTV",Outside TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/6340/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/291.png" tvg-id="291" group-title="BUBIK TV @DARSHANIPTV",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/11720.png" tvg-id="799" group-title="BUBIK TV @DARSHANIPTV",PBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/11720/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1120.png" tvg-id="811" group-title="BUBIK TV @DARSHANIPTV",Channel 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1120/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/1119.png" tvg-id="812" group-title="BUBIK TV @DARSHANIPTV",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/1119/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/dark/187.png" tvg-id="187" group-title="BUBIK TV @DARSHANIPTV",CMT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/2294/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/284494.png" tvg-id="769" group-title="BUBIK TV @DARSHANIPTV",CMT Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/284494/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/15155.png" tvg-id="814" group-title="BUBIK TV @DARSHANIPTV",Sky Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/15155/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
+
+#EXTINF:-0 tvg-logo="https://i0.wp.com/image-bs-1.bubik.live/static/common/img/tv-channel/iptv/dark/269161.png" tvg-id="767" group-title="BUBIK TV @DARSHANIPTV",Investigation Discovery (ID)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/stream/269161/index.m3u8|Referer=https://livecdn-iptv001.rumsport.com/
